@@ -291,7 +291,7 @@
 	#header
 	{
 		position: relative;
-		background: #2a2f27 url(../images/banner.jpg) no-repeat;
+		background: #2a2f27 url(../images/gym/06.jpeg) no-repeat;
 		background-size: cover;
 	}
 
@@ -301,6 +301,8 @@
 	
 	#nav
 	{
+		background-color: #151C29;
+		width: 100%;
 	}
 
 		#nav ul
@@ -384,3 +386,6 @@
 		text-decoration: none;
 		color: rgba(255,255,255,.3);
 	}	
+	.alpha-logo-nav{
+		height: 40px;
+	}
